@@ -16,7 +16,7 @@ function Intro() {
         to develop skills and contribute to organizational goals.
         <br /><br />{" "}
         <a
-          href="https://drive.google.com/file/d/18Sh8O97m5YiAgrKJasN834z7LVnkBJgj/view?usp=drivesdk"
+          href="https://www.dropbox.com/scl/fi/kcnw96rwmmy22ys6m6sm5/Aswindev.pdf?rlkey=rw0m1387hxtq24u7ctsvu62g2&dl=0"
           target="_blank"
           className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-cyan-600"
           rel="noreferrer noopener"
