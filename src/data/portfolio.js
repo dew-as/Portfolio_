@@ -1,7 +1,7 @@
 export default [
   {
     title: "Cooking Mace",
-    imgUrl: "/assets/VoiceAssistant.gif",
+    imgUrl: "/assets/CookingMace.png",
     stack: ["React JS","Redux"],
     link: "https://cooking-mace.vercel.app/",
     git: "https://github.com/dew-as/Cooking-Mace",
