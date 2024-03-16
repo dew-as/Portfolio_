@@ -1,5 +1,13 @@
 export default [
   {
+    title: "Cooking Mace",
+    imgUrl: "/assets/VoiceAssistant.gif",
+    stack: ["React JS","Redux"],
+    link: "https://cooking-mace.vercel.app/",
+    git: "https://github.com/dew-as/Cooking-Mace",
+    live: "https://cooking-mace.vercel.app/",
+  },
+  {
     title: "Ecommerce Website",
     imgUrl: "/assets/Ecommerce.gif",
     stack: ["Next JS", "Tailwind", "Firebase", "Mongo DB"],
@@ -14,14 +22,6 @@ export default [
     link: "https://hang-man-game-mocha.vercel.app/",
     git: "https://github.com/dew-as/Hang_Man_Game",
     live: "https://hang-man-game-mocha.vercel.app/",
-  },
-  {
-    title: "Voice Assistant",
-    imgUrl: "/assets/VoiceAssistant.gif",
-    stack: ["HTML", "CSS", "JAVASCRIPT"],
-    link: "https://jarvi-svoiceassistant.vercel.app/",
-    git: "https://github.com/dew-as/JARVISvoiceassistant",
-    live: "https://jarvi-svoiceassistant.vercel.app/",
   },
   {
     title: "Color Generator",
