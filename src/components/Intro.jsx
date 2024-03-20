@@ -16,7 +16,7 @@ function Intro() {
         to develop skills and contribute to organizational goals.
         <br /><br />{" "}
         <a
-          href="https://www.dropbox.com/scl/fi/y0j3b21w2dhhngqmd76is/AswindevCV.PDF?rlkey=9ilhfaxrs3u0w8bbnmp1gbdt3&dl=0"
+          href="https://github.com/dew-as/dew-as/blob/main/Aswindev.pdf"
           target="_blank"
           className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-cyan-600"
           rel="noreferrer noopener"
