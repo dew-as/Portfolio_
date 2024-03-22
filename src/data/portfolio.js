@@ -11,9 +11,9 @@ export default [
     title: "Ecommerce Website",
     imgUrl: "/assets/Ecommerce.gif",
     stack: ["Next JS", "Tailwind", "Firebase", "Mongo DB"],
-    link: "https://github.com/dew-as/EcommerceNext",
+    link: "https://vercel.com/aswindevs-projects/ecom-private",
     git: "https://github.com/dew-as/EcommerceNext",
-    live: "https://github.com/dew-as/EcommerceNext",
+    live: "https://vercel.com/aswindevs-projects/ecom-private",
   },
   {
     title: "Hangman Game",
