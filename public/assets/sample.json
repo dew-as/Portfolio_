@@ -54,7 +54,7 @@
           "steering_and_odometer_image": { "url": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png" }
         },
  {
-          "vehicle_make": "Toyota",
+          "vehicle_make": "Tata",
           "vehicle_model": "Corolla",
           "vehicle_variant": "GLI 1.8",
           "registration_no": "TX123ABC",
@@ -78,7 +78,7 @@
       ]
     },
  {
-      "name": "test1",
+      "name": "test2",
       "user_id": "DriveNow Autos",
       "phone": "9898767898",
       "email": "drivenow@gmail.com",
@@ -131,7 +131,7 @@
           "steering_and_odometer_image": { "url": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png" }
         },
  {
-          "vehicle_make": "Toyota",
+          "vehicle_make": "Tata",
           "vehicle_model": "Corolla",
           "vehicle_variant": "GLI 1.8",
           "registration_no": "TX123ABC",
