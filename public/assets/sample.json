@@ -29,7 +29,7 @@
       "Article_of_association_image": { "url": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png" },
       "gstin_image": { "url": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png" },
       "aadhar/id_proof_image": { "url": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png" },
-      "shop_establishment/address_proof_image" { "url": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png" },
+      "shop_establishment/address_proof_image" :{ "url": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984_1280.png" },
       },
 
       
