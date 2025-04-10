@@ -1,0 +1,35 @@
+{
+    "Franchises": [
+  {
+      "name": "DILEEP S",
+      "user_id": "1",
+      "phone": "9446545018",
+      "email": "maxxmotorstvm@gmail.com",
+      "franchise_name": "MAXX MOTORS",
+      "Address": "PONGANMOOD,MEDICAL COLLEGE PO,TRIVANDRUM",
+      "State": "KERALA",
+      "District": "TRIVANDRUM",
+      "Location": "PONGANMOOD",
+      "Pin_code": "695011",
+      "google_map_location": "PONGANMOOD",
+      "Zone": "SOUTH",
+      "logo_image": { "url": "https://www.vectorstock.com/royalty-free-vector/sports-car-silhouette-dealer-logo-vector-39355097"},
+      "pan": "DLBPS1845C",
+      "tin_number": "APPLIED",
+      "used_cars_dealership_lisenc_number": null,
+      "gstin": "32DLBPS1845C1ZG",
+      "type_of_ownership": "PROPRIETORSHIP",
+      "bank_name": "HDFC",
+      "bank_branch": "THYCADU",
+      "bank_account_number": "99999746475966",
+      "bank_ifsc_code": "HDFC 0005125",
+      "bank_passbook_image": null,
+      "pan_image": null,
+      "government_used_cars_authorization_certification_image": "APPLIED",
+      "Article_of_association_image": null,
+      "gstin_image": null,
+      "aadhar_id_proof_image": null,
+      "shop_etablishment_address_proof_image": null
+  }
+]
+}
