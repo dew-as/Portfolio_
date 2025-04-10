@@ -21,8 +21,8 @@
           "interior_front_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
           "interior_back_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
           "steering_and_odometer_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
-          "user_id":1
-          "phone": "9446545018",
+          "user_id":1,
+          "phone": "9446545018"
         }
       ]
 }
