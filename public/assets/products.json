@@ -1,0 +1,26 @@
+"products": [
+        {
+          "vehicle_make": "Toyota",
+          "vehicle_model": "Corolla",
+          "vehicle_variant": "GLI 1.8",
+          "registration_no": "TX123ABC",
+          "fuel_type": "Petrol",
+          "color": "White",
+          "mileage": "15 km",
+          "rc_ownership_status": "Original",
+          "number_of_previous_owners": 1,
+          "mfg_year": 2018,
+          "overall_vehicle_condition": "Excellent",
+          "key_feature_of_vehicle": "Touchscreen Display, Reverse Camera",
+          "expected_price": "1,40,000",
+          "front_view": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "right_side_view": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "left_side_view": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "rear_side_view": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "interior_front_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "interior_back_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "steering_and_odometer_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "user_id":1
+          "phone": "9446545018",
+        }
+      ]
