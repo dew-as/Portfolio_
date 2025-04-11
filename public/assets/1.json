@@ -7,7 +7,7 @@
           "registration_no": "TX123ABC",
           "fuel_type": "Petrol",
           "color": "White",
-          "mileage": "15 km",
+          "kms": "15 km",
           "number_of_previous_owners": 1,
           "mfg_year": 2018,
           "key_feature_of_vehicle": "Touchscreen Display, Reverse Camera",
