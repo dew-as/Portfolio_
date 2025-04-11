@@ -20,6 +20,7 @@
           "interior_back_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
           "steering_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
           "odometer_image": { "url": "https://cdn.pixabay.com/photo/2022/08/31/20/08/antique-car-7424135_640.jpg" },
+          "status": "Booked",
           "user_id":1,
           "phone": "9446545018"
         }
